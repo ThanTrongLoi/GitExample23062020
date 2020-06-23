@@ -1,3 +1,5 @@
 terminal: ctrl + ~
 xem file ẩn: command + shift + .
 xoá lệnh cũ: clear 
+lắng nghe (lưu lại) Em sự thay đổi: git add + <file(.)>
+git commit -m "***"
