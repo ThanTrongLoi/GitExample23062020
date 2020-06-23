@@ -1,0 +1,3 @@
+terminal: ctrl + ~
+xem file ẩn: command + shift + .
+xoá lệnh cũ: clear 
